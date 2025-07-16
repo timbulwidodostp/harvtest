@@ -1,5 +1,5 @@
 # harvtest
-Harvey-Collier test Use harvtest (lmtest) With (In) STATA 19
+Harvey-Collier test Use harvtest (lmtest) With (In) R Software
 
 Olah Data Semarang
 
