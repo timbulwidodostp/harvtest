@@ -1,7 +1,7 @@
 # harvtest
 Harvey-Collier test Use harvtest (lmtest) With (In) R Software
 
-harvtest (lmtest) With (In) R Software
+https://www.youtube.com/watch?v=ygZhst2TIFo
 
 Olah Data Semarang
 
