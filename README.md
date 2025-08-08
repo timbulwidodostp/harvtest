@@ -1,6 +1,8 @@
 # harvtest
 Harvey-Collier test Use harvtest (lmtest) With (In) R Software
 
+harvtest (lmtest) With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
